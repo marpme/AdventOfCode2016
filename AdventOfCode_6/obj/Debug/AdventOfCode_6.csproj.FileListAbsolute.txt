@@ -10,3 +10,6 @@ C:\Users\kyon\Documents\GitGood\AdventOfCode2016\AdventOfCode\obj\Debug\AdventOf
 C:\Users\kyon\Documents\GitGood\AdventOfCode2016\AdventOfCode\bin\Debug\AdventOfCode.exe
 C:\Users\kyon\Documents\GitGood\AdventOfCode2016\AdventOfCode\bin\Debug\AdventOfCode.pdb
 C:\Users\kyon\Documents\GitGood\AdventOfCode2016\AdventOfCode\obj\Debug\AdventOfCode_6.csprojResolveAssemblyReference.cache
+C:\Users\kyon\Documents\GitGood\AdventOfCode2016\AdventOfCode_6\bin\Debug\AdventOfCode.exe.config
+C:\Users\kyon\Documents\GitGood\AdventOfCode2016\AdventOfCode_6\obj\Debug\AdventOfCode.exe
+C:\Users\kyon\Documents\GitGood\AdventOfCode2016\AdventOfCode_6\obj\Debug\AdventOfCode.pdb
