@@ -1,5 +1,4 @@
 ##Advent Of Code 2016
----
 
 Welcome to another ending year with our lovely ``aoc``.
 I will try to post the C# solution as soon as possible. :)
